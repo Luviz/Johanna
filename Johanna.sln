@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Johanna", "Johanna\Johanna.csproj", "{D74F0339-4885-4DAD-A26C-2E32D21EF369}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D74F0339-4885-4DAD-A26C-2E32D21EF369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D74F0339-4885-4DAD-A26C-2E32D21EF369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D74F0339-4885-4DAD-A26C-2E32D21EF369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D74F0339-4885-4DAD-A26C-2E32D21EF369}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
