@@ -11,7 +11,7 @@ namespace Johanna {
 
 			Random rand = new Random();
 			int hiddenValue = rand.Next(0, 100);
-
+			
 			int count = 0;
 			try {
 				while (!valueFound) {
@@ -36,7 +36,6 @@ namespace Johanna {
 				Console.WriteLine("you fool I said betwin 0 and 100!!!!!!");
 				Console.ReadKey();
 			}
-
 			Console.WriteLine("DONE!");
 		}
 
